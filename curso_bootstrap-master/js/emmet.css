@@ -1,0 +1,33 @@
+/* aula 20 css colors */
+
+.elemento{
+    color: blueviolet;
+    color: #edadae;
+    color: black;
+}
+
+/* aula 21 position */
+
+.elemento2 {
+    position: relative;
+    pointer-events: all;
+    margin: 40px;
+    padding: 20px;
+}
+/* po - position, p = padding */
+
+
+/* aula 22 floats */
+.elemento{
+    float: left;
+
+}
+
+.elemento{
+    display: block;
+    display: compact;
+    
+}
+
+/* doc emmet: www.docs.emmets.io */
+
